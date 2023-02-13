@@ -1,5 +1,31 @@
 {
     "name": "Skillhub",
-    "start_url": "/",
-    "display": "standalone"
+    "start_url": "/PWA",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "../PWA/assets/images/Skillhub-48-48/png",
+            "sizes": "48x48"
+        },
+        {
+            "src": "../PWA/assets/images/Skillhub-72-72/png",
+            "sizes": "72x72"
+        },
+        {
+            "src": "../PWA/assets/images/Skillhub-96-96/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "../PWA/assets/images/Skillhub-144-144/png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "../PWA/assets/images/Skillhub-192-192/png",
+            "sizes": "192-192"
+        },
+        {
+            "src": "../PWA/assets/images/Skillhub-512-512/png",
+            "sizes": "512x512"
+        }
+    ]
 }

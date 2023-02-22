@@ -20,7 +20,7 @@ Skills:
 • Familiar with Agile and Waterfall development processes
 
 Experience:
-• 5+ years of experience in software development
+• 1 years of experience in software development
 • Developed dozens of websites and web applications
 • Experience designing and developing user-friendly interfaces
 • Participated in the design and implementation of custom web applications
